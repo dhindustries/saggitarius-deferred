@@ -1,0 +1,14 @@
+{
+  "name": "@saggitarius/deferred",
+  "author": {
+      "name": "Daniel Haba",
+      "email": "habavx@gmail.com"
+  },
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "typescript": "^3.9.6"
+  }
+}
