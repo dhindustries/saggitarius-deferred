@@ -1,8 +1,8 @@
 {
   "name": "@saggitarius/deferred",
   "author": {
-      "name": "Daniel Haba",
-      "email": "habavx@gmail.com"
+    "name": "Daniel Haba",
+    "email": "habavx@gmail.com"
   },
   "version": "1.0.0",
   "main": "dist/index.js",
